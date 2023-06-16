@@ -1,8 +1,8 @@
 # Telecom-Customer-Churn-Analysis
 **"Breaking the Chains of Churn: Connecting You to a Better Telecom Experience"**
 
+![1_MyKDLRda6yHGR_8kgVvckg](https://github.com/Darakshii/Telecom-Customer-Churn-Analysis/assets/130299461/ce57ad4b-df02-475a-9fa5-b51e8c22f676)
 
-![download](https://github.com/Darakshii/Telecom-Customer-Churn-Analysis/assets/130299461/33b95d07-d927-438d-83c3-1c576ea6722e)
 
 ## Overview of Data
 Churn data for a fictional Telecommunications company that provides phone and internet services to 7,043 customers in California, and includes details about customer demographics, location, services, and current status.
